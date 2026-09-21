@@ -155,7 +155,7 @@ pub fn get_apple_libraries() -> Result<Arc<AppleLibraries>> {
     }
 
     let dir = locate_support_dir().context(
-        "Apple Mobile Device Support was not found. Install 64-bit iTunes package from Apple.",
+        "Apple Mobile Device Support not found. Please install 64-bit iTunes (未检测到 Apple 移动设备支持服务，请安装 64 位版 iTunes)。",
     )?;
 
     // Configure Windows DLL search directory so dependent DLLs (e.g. objc, pthread, SQLite) are resolved
