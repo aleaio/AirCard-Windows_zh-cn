@@ -24,7 +24,7 @@
 
 ## 环境要求
 - **Windows 10 / 11 (64 位系统)**
-- **Apple Mobile Device Support / 64 位 iTunes**（用于提供 Apple USB 设备通信驱动程序服务）。
+- **Apple Mobile Device Support / [64 位 iTunes](https://www.apple.com/itunes/)**（用于提供 Apple USB 设备通信驱动程序服务）。
 - 标准 Lightning 或 USB-C 苹果数据线。
 
 ---

@@ -24,7 +24,7 @@
 
 ## Requirements
 - **Windows 10 / 11 (64-bit)**
-- **Apple Mobile Device Support / 64-bit iTunes** (required for Apple USB communication drivers).
+- **Apple Mobile Device Support / [64-bit iTunes](https://www.apple.com/itunes/)** (required for Apple USB communication drivers).
 - Standard Lightning or USB-C cable to connect your iPhone.
 
 ---
