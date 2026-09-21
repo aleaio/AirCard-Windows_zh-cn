@@ -24,7 +24,7 @@
 
 ## 环境要求
 - **Windows 10 / 11 (64 位系统)**
-- **Apple Mobile Device Support / [64 位 iTunes](https://www.apple.com/itunes/)**（用于提供 Apple USB 设备通信驱动程序服务）。
+- **Apple Mobile Device Support / 64 位 iTunes**（用于提供 Apple USB 设备通信驱动程序服务，需使用官方独立安装包，[下载指引见下文](#排障提示卡在-13-处理指引)）。
 - 标准 Lightning 或 USB-C 苹果数据线。
 
 ---
@@ -63,7 +63,14 @@
 6. 写入完成后，在 iPhone 屏幕底部向上轻扫进入多任务后台，向上滑动彻底关闭“钱包”App，重新打开钱包即可看到全新卡面！
 
 > [!NOTE]
-> **排障提示**：如果在写入卡面时进度卡在 **`1/3`**，通常是由于系统底层的 Apple 设备服务驱动版本过旧或异常，请前往 **[iTunes 官网](https://www.apple.com/itunes/)** 下载最新版 64 位 iTunes 并安装，安装完成后重新插拔手机再试。
+> **排障提示（卡在 1/3 处理指引）**：  
+> 如果在写入卡面时进度卡在 **`1/3`**，通常是由于系统底层的 Apple 设备服务驱动版本过旧或组件异常，请按以下步骤重新安装官方最新版完整 iTunes：
+> 1. 打开 **[iTunes 官网下载页面](https://www.apple.com/itunes/)**；
+> 2. 向下滚动页面，找到 **“Looking for other versions?”** 后面的 **Windows** 并点击进入；
+> 3. 根据您的系统版本选择对应安装包下载：
+>    - 64 位 Windows（绝大多数系统推荐）：👉 **[Download iTunes for Windows now (64-bit)](https://www.apple.com/itunes/download/win64)**
+>    - 32 位 Windows：👉 **[Looking for Windows 32-bit? Download here](https://www.apple.com/itunes/download/win32)**
+> 4. 下载完成并安装后，重新插拔手机数据线再次尝试写入即可。
 
 ---
 
