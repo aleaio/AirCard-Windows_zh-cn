@@ -104,10 +104,10 @@ cargo build --release
 ---
 
 ## 贡献者与维护者
-- **[@aleaio](https://github.com/aleaio)**（本汉化双语分支维护者）
 - **[@Lumid-Off](https://github.com/Lumid-Off)**（Windows 原生 Rust 移植与维护者）— [GitHub](https://github.com/Lumid-Off) · [Twitter / X](https://x.com/LumidOff)
 - **[@mak5er](https://github.com/mak5er)**（原始 macOS 应用与漏洞研究）— [GitHub](https://github.com/mak5er) · [Twitter / X](https://x.com/mak5er)
 - **[AirLift](https://github.com/0xjohnnydev/airlift)** 作者 **[0xjohnny (@0xjohnnydev)](https://github.com/0xjohnnydev)**：底层 `AirliftFFI` 所依赖的原始 AirTraffic / ATAirlock 沙盒逃逸与概念验证代码。
+- **[@aleaio](https://github.com/aleaio)**（本汉化双语分支维护者）
 
 ## 鸣谢
 - 核心 Exploit 机制基于 `airlift`（AirTraffic 同步逃逸通道）；
