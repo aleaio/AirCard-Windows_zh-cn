@@ -89,8 +89,8 @@
 
 ```powershell
 # 克隆本仓库
-git clone https://github.com/aleaio/AirCard-Windows.git
-cd AirCard-Windows
+git clone https://github.com/aleaio/AirCard-Windows_zh-cn.git
+cd AirCard-Windows_zh-cn
 
 # 运行测试
 cargo test

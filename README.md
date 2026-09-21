@@ -86,8 +86,8 @@ Prerequisites: [Rust toolchain](https://rustup.rs/) (`stable-x86_64-pc-windows-m
 
 ```powershell
 # Clone the repository
-git clone https://github.com/Lumid-Off/AirCard-Windows.git
-cd AirCard-Windows
+git clone https://github.com/aleaio/AirCard-Windows_zh-cn.git
+cd AirCard-Windows_zh-cn
 
 # Run tests
 cargo test
