@@ -34,7 +34,7 @@
 > [!TIP]
 > **未检测到 iPhone、AirTraffic 同步卡住或写入操作失败？**  
 > Windows 系统中 Apple USB 驱动损坏或版本冲突是最主要的根本原因。
-> 1. 下载并安装 **[爱思助手 (3uTools)](https://www.3u.com/)**。
+> 1. 下载并安装 **爱思助手 / [3uTools](https://www.3u.com/)**。
 > 2. **断开 iPhone 与电脑的数据线连接**。
 > 3. 打开爱思助手，进入 **工具箱 ➔ 修复驱动 (Repair Driver)**。
 > 4. 点击 **立即修复** 并耐心等待 Apple 官方底层驱动重装完成。
@@ -45,7 +45,7 @@
 ## 下载与运行
 
 ### 预编译成品下载
-1. 从 [Releases 页面](https://github.com/aleaio/AirCard-Windows/releases) 或 GitHub Actions 的 Artifacts 下载 **`aircard.exe`**；
+1. 从 [Releases 页面](https://github.com/aleaio/AirCard-Windows_zh-cn/releases) 或 GitHub Actions 的 Artifacts 下载 **`aircard.exe`**；
 2. 用数据线将 iPhone 连接至电脑，解锁屏幕并在手机上轻点 **“信任此电脑”**；
 3. 双击运行 **`aircard.exe`**。
 

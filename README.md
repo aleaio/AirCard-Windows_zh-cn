@@ -44,8 +44,8 @@
 
 ## Installation
 
-### Pre-built Executable / 预编译文件下载
-1. Download **`aircard.exe`** from [Releases](https://github.com/aleaio/AirCard-Windows/releases) or GitHub Actions Artifacts.
+### Pre-built Executable
+1. Download **`aircard.exe`** from [Releases](https://github.com/aleaio/AirCard-Windows_zh-cn/releases) or GitHub Actions Artifacts.
 2. Connect your iPhone via USB, unlock it, and tap **"Trust this Computer"** if prompted.
 3. Run **`aircard.exe`**.
 
