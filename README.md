@@ -1,7 +1,13 @@
 # AirCard (Windows) 🎴
 
+[English](README.md) | [简体中文](README_zh.md)
+
 > **Apple Wallet Card Skinner & Lockscreen Passcode Themer for iOS 18+ (No Jailbreak Required)**  
 > Native Windows client written in Rust. Powered by the `airlift` AirTraffic sync exploit.
+
+> [!NOTE]
+> **About this fork:**
+> This repository is forked from [Lumid-Off/AirCard-Windows](https://github.com/Lumid-Off/AirCard-Windows). **No core logic or functionality has been modified**; this version only introduces embedded open-source Chinese typography and bilingual (Simplified Chinese & English) localization.
 
 ---
 
@@ -38,8 +44,8 @@
 
 ## Installation
 
-### Pre-built Executable
-1. Download **`aircard.exe`** from [Releases](https://github.com/Lumid-Off/AirCard-Windows/releases).
+### Pre-built Executable / 预编译文件下载
+1. Download **`aircard.exe`** from [Releases](https://github.com/aleaio/AirCard-Windows/releases) or GitHub Actions Artifacts.
 2. Connect your iPhone via USB, unlock it, and tap **"Trust this Computer"** if prompted.
 3. Run **`aircard.exe`**.
 
